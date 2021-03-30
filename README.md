@@ -1,5 +1,10 @@
 Bootstrap Cheat Sheet with revised classes up-to-date.
 
-LIVE DEMO:
+Config File:
 
-https://hulchenko.github.io/bootstrap-cheat-sheet/
+https://github.com/hulchenko/jquery-bootstrap-practice/blob/main/config.md
+
+Cheat Sheet:
+
+https://github.com/hulchenko/jquery-bootstrap-practice/blob/main/cheat-sheet.html
+
