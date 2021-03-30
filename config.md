@@ -26,3 +26,8 @@
     .parent() - targets parent element of the element
     ex: $("#left-well").parent().css("background-color", "blue") >>therefore this one>> <div class="col-xs-6">
     .children() - opposite from .parent()
+    .target:nth-child(n) - alternative way to select child elements(class > nth-child > (index))
+    ex: $(".target:nth-child(3)").addClass("animated bounce");
+
+//Body selector:
+$("body").addClass("animated fadeOut");
