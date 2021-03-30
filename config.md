@@ -19,3 +19,10 @@
     .html() - text and tags can be replaced
     .text() - text can be replaced
     .remove()
+    .appendTo() - allows to select HTML elements and append them to another element
+    ex: $("#target4").appendTo("#left-well");
+    .clone() - copies element, used with appendTo()
+    ex: $("#target2").clone().appendTo("#right-well");
+    .parent() - targets parent element of the element
+    ex: $("#left-well").parent().css("background-color", "blue") >>therefore this one>> <div class="col-xs-6">
+    .children() - opposite from .parent()
